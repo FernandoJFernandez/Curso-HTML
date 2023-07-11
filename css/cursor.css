@@ -1,0 +1,9 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+}
+
+/* Selector Adyacente Inmediato */
+
+p {
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+ 
+div {
+    width: 200px; /* Define el ancho del elemento */
+    height: 200px; /* Define el alto del elemento */
+    background: #CCC;
+    display: inline-block;
+
+}
+
+span { 
+    color: red;
+    font-weight: bold;
+    display: block;
+
+}
+
+#dos {
+    /* display: none; */
+    visibility: hidden;
+}

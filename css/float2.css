@@ -1,0 +1,39 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+}
+
+#principal{
+    width: 800px;
+    padding: 20px;
+    border: 2px dashed #3498D8;
+    margin: 20px auto;
+    color: #888888;
+}
+
+div{
+    padding: 40px 0;
+    text-align: center;
+    width: 25%;
+    /*float: left;*/
+    display: inline-block;
+}
+
+#div1{
+    background: #FFCC00;
+}
+
+#div2{
+    background: #99FFAA;
+}
+
+#div3{
+    background: #AADDFF;
+}
+
+#div4{
+    background: #EEAAFF;
+}
+
+p{
+    
+}
